@@ -1,10 +1,6 @@
 #include <iostream>
 #include "nse_mysqlconnector.hpp"
 #include <gtk/gtk.h>
-
-
-
-
 //Tu dokonałem zmiany testowej ;p
  void ShowMessage(const char* msg)
     {
