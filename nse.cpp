@@ -5,8 +5,7 @@
 
 
 
-
-
+//Tu dokonałem zmiany testowej ;p
  void ShowMessage(const char* msg)
     {
         std::cerr << msg << std::endl;
